@@ -2,7 +2,7 @@
 #purpose: create directory structure, copy program binaries and reference sequences on local computer
 #conda activate qiime2-2019.10
 
-prodir="/Users/mikeconnelly/computing/projects/PAN-10_qiime2
+prodir="/Users/mikeconnelly/computing/projects/PAN-10_qiime2"
 echo "Pipeline setup process started"
 
 #make file structure for pipeline file input/output
